@@ -7,7 +7,7 @@ subtitle: xuyang {dot} zhang {at} kcl {dot} ac {dot} uk
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
