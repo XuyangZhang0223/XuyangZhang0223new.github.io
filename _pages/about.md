@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I a currently a Ph.D. student at [King’s College London](https://www.kcl.ac.uk/), supervised by Prof. [Shan Luo](https://shanluo.github.io/). My research focuses on the design, simulation, and application of vision-based tactile sensors, as well as the development of multi-fingered robotic grippers for dexterous manipulation. My goal is to empower robots with human-like tactile perception and dexterity, enabling them to operate autonomously and adaptively in complex, real-world environments.
+I am currently a Ph.D. student at [King’s College London](https://www.kcl.ac.uk/), supervised by Prof. [Shan Luo](https://shanluo.github.io/). My research focuses on the design, simulation, and application of vision-based tactile sensors, as well as the development of multi-fingered robotic grippers for dexterous manipulation. My goal is to empower robots with human-like tactile perception and dexterity, enabling them to operate autonomously and adaptively in complex, real-world environments.
 
 I received my Master’s degree in Robotics from the [University of Bristol](https://www.bristol.ac.uk/) in 2022, where I was supervised by Prof. [Nathan Lepora](https://lepora.com/) and Dr. [Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/). During my time there, I worked on the simulation, fabrication, and validation of tactile-based soft grippers and their applications in robotics.
 
